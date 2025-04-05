@@ -1,6 +1,7 @@
 # Contact Management System
 
 A full-stack contact management application built with Python Flask backend and React frontend.
+I followed this tutorial : https://youtu.be/PppslXOR7TA?si=g8zblJhHTqcW1D83
 
 ## Project Structure
 
